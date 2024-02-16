@@ -1,5 +1,7 @@
 nav {
   border-bottom: 1px solid black;
+  font-size: 35px;
+  font-family: "Times"
 }
 .no ol {
   display: inline-block;
