@@ -1,7 +1,9 @@
 nav {
   border-bottom: 1px solid black;
 }
-
 .no ol {
   display: inline-block;
+}
+body {
+  background-color: darkslategray;
 }
