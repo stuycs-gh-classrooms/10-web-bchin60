@@ -4,7 +4,10 @@ nav {
   font-family: "Times"
   color: black;
 }
-.no ol {
+.no ol{
+  padding-left: 0;
+}
+.no {
   display: inline-block;
 }
 body {
