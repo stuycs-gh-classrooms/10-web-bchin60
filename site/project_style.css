@@ -9,5 +9,7 @@ body {
   padding: 5em;
   background-color: darkslategray;
   border: 5px solid cadetblue;
+}
+p {
   font-size: 20px;
 }
