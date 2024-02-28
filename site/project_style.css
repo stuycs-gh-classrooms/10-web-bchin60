@@ -7,12 +7,12 @@ nav {
 a {
 color: darkslategray;
   font-family: "Times New Roman", Times, serif
-  font-size: 50px;
 }
 li {
   display: inline;
   margin-right: 30px;
   font-weight: bold;
+  font-size: 50px;
 }
 body {
   padding: 5em;
