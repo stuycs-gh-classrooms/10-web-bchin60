@@ -1,9 +1,7 @@
 nav {
-  border-bottom: 1px solid black;
-}
-.no ul {
   display: inline;
   list-style: none;
+  border-bottom: 1px solid black;
 }
 body {
   padding: 5em;
