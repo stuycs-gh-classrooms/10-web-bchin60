@@ -6,6 +6,7 @@ nav {
   list-style: none;
 }
 body {
+  padding: 5em;
   background-color: darkslategray;
   text-align: center;
   border: 5px solid cadetblue;
