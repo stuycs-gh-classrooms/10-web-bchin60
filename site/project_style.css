@@ -1,12 +1,11 @@
 nav {
   font-size: 40px;
-  list-style: none;
-  color: black;
-  
+  list-style: none;  
 }
 li{
   display: inline;
   margin-right: 30px;
+  color: black;
 }
 body {
   margin: 400px;
