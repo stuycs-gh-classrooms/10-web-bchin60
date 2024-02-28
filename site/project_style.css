@@ -1,0 +1,11 @@
+nav {
+  border-bottom: 1px solid black;
+}
+.no ol {
+  display: inline-block;
+}
+body {
+  background-color: darkslategray;
+  text-align: center;
+  border: 5px solid cadetblue;
+}
