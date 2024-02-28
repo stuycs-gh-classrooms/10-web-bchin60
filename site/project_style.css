@@ -1,6 +1,5 @@
 nav {
   text-align: center;
-  text-decoration: none;
   margin-bottom: 60px;
 }
 a {
@@ -11,6 +10,7 @@ li {
   margin-right: 30px;
   font-weight: bold;
   font-size: 30px;
+  text-decoration: underline;
 }
 body {
   padding: 5em;
