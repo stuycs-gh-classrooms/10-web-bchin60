@@ -8,6 +8,7 @@ a {
 color: darkslategray;
   font-family: "Times New Roman", Times, serif
   font-weight: bold;
+  font-size: 50px;
 }
 li {
   display: inline;
