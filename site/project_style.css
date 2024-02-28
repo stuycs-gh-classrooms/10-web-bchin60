@@ -6,6 +6,7 @@ a {
 color: darkslategray;
   font-family: "Times New Roman", Times, serif
   text-decoration: none;
+  text-align: center;
 }
 li{
   display: inline;
@@ -16,6 +17,7 @@ li{
 }
 body {
   padding: 5em;
+  top-margin: 5px;
   margin: 10px;
   background-color: #1a1a1a;
   color: firebrick;
