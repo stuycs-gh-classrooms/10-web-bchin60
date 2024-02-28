@@ -8,12 +8,12 @@ li{
   margin-right: 30px;
 }
 body {
-  margin: 30px;
+  margin: 400px;
   padding: 5em;
   padding-top: 0em;
   background-color: darkslategray;
   border: 5px solid cadetblue;
-  margin-right: 400px;
+  margin-top: 30px;
   text-align: center;
 }
 p {
