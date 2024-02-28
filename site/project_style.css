@@ -6,4 +6,6 @@ nav {
 }
 body {
   background-color: darkslategray;
+  text-align: center;
+  border: 5px solid cadetblue;
 }
