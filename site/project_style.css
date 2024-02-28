@@ -2,7 +2,7 @@ nav {
   font-size: 40px;
   list-style: none;  
 }
-.no {
+a {
 color: black;
 }
 li{
@@ -16,7 +16,7 @@ li{
 body {
   padding: 5em;
   margin: 10px;
-  background-color: black;
+  background-color: darkslategray;
   color: firebrick;
   font-family: "Times New Roman", Times, serif;
 }
