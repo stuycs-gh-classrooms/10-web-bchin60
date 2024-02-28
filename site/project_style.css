@@ -1,19 +1,18 @@
 nav {
   font-size: 40px;
   list-style: none;  
+  text-align: center;
 }
 a {
 color: darkslategray;
   font-family: "Times New Roman", Times, serif
   text-decoration: none;
   font-weight: bold;
+  font-size: 50px;
 }
 li {
   display: inline;
   margin-right: 30px;
-  text-decoration: none;
-  font-size: 50px;
-  text-align: center;
 }
 ol {
 text-decoration: none;
