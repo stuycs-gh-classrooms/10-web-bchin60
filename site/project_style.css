@@ -2,7 +2,7 @@ nav {
   border-bottom: 1px solid black;
 }
 .no ul {
-  display: inline-block;
+  display: inline;
   list-style: none;
 }
 body {
