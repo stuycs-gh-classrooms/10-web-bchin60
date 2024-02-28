@@ -9,18 +9,17 @@ li{
   text-decoration: none;
   font-family: "Times New Roman", Times, serif;
   font-size: 50px;
+  
 }
 body {
   padding: 5em;
   margin: 10px;
   background-color: black;
   color: firebrick;
-  margin-top: 30px;
   font-family: "Times New Roman", Times, serif;
-  font-size: 30px;
 }
 p {
-  
+  font-size: 30px;
 }
 h1 {
   
