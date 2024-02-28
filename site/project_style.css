@@ -3,20 +3,21 @@ nav {
   list-style: none;  
 }
 a {
-color: #404040;
+color: darkslategray;
+  font-family: "Times New Roman", Times, serif
+  text-decoration: none;
 }
 li{
   display: inline;
   margin-right: 30px;
   text-decoration: none;
-  font-family: "Times New Roman", Times, serif;
   font-size: 50px;
   
 }
 body {
   padding: 5em;
   margin: 10px;
-  background-color: darkslategray;
+  background-color: #1a1a1a;
   color: firebrick;
   font-family: "Times New Roman", Times, serif;
 }
