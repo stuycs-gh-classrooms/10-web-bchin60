@@ -1,5 +1,4 @@
 nav {
-  font-size: 30px;
   text-align: center;
   text-decoration: none;
   margin-bottom: 60px;
@@ -11,7 +10,7 @@ li {
   display: inline;
   margin-right: 30px;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 30px;
 }
 body {
   padding: 5em;
