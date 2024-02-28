@@ -6,7 +6,6 @@ nav {
 }
 a {
 color: darkslategray;
-  font-family: "Times New Roman", Times, serif
 }
 li {
   display: inline;
@@ -21,11 +20,10 @@ body {
   background-color: #1a1a1a;
   color: firebrick;
   text-align: center;
-  font-family: Times, serif;
 }
 p {
-  font-size: 30px;
+  font-size: 20px;
 }
 h1 {
-  
+  font-size: 40px;
 }
