@@ -1,6 +1,8 @@
 nav {
   border-bottom: 1px solid black;
 }
+ul {
+  list-style: none;
 .no ul {
   display: inline-block;
   list-style: none;
