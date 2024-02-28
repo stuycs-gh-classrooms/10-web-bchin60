@@ -1,6 +1,7 @@
 nav {
   font-size: 40px;
   list-style: none;  
+  text-decoration: none;
 }
 li{
   display: inline;
