@@ -6,6 +6,9 @@ li {
   display: inline;
   list-style: unset;
 }
+a {
+  font-weight: bold; 
+  }
 body {
   background-color: #262626;
   text-align: center;
