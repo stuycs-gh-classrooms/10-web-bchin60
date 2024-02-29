@@ -1,9 +1,9 @@
-nav {  display: inline;
+nav {  
+  display: inline;
   list-style: unset;
   font-size: 30px;
   margin: 15px;
   text-decoration: underline;
-}
 }
 li {
   display: inline;
