@@ -26,7 +26,9 @@ text-decoration: underline;
 p {
 font-size: 20px;
   margin: 45px;
+  float: left;
 }
+
 img {
 height: 700px;
   width: 400px; 
