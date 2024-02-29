@@ -4,7 +4,7 @@ nav {
 }
 ul {
   display: inline;
-  list-style: unset
+  list-style: unset;
 }
 body {
   background-color: darkslategray;
