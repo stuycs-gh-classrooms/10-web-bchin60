@@ -7,8 +7,7 @@ ul {
   list-style: unset;
 }
 body {
-  background-color: darkslategray;
+  background-color: #262626;
   text-align: center;
-  border: 5px solid cadetblue;
-
+  color: firebrick;
 }
