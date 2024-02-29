@@ -1,5 +1,6 @@
 nav {
   padding: 5em;
+  font-weight: bold;
 }
 li {
   display: inline;
@@ -9,7 +10,6 @@ li {
   text-decoration: underline;
 }
 a {
-  font-weight: bold; 
   color: darkslategray;
   }
 body {
