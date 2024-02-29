@@ -2,9 +2,10 @@ nav {
   border-bottom: 1px solid black;
 
 }
-.no ol {
-  display: inline
-  list-style: unset;}
+ul {
+  display: inline;
+  list-style: unset
+}
 body {
   background-color: darkslategray;
   text-align: center;
