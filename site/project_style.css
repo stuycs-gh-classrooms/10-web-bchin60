@@ -21,8 +21,9 @@ body {
 h1 {
 text-decoration: underline;
   font-size: 40px;
-  padding: 60px;
+  margin: 60px;
 }
 p {
 font-size: 20px;
+  margin: 60px;
 }
