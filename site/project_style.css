@@ -26,9 +26,10 @@ text-decoration: underline;
 p {
 font-size: 20px;
   margin: 45px;
+}
+p1 {
   float: left;
 }
-
 img {
 height: 700px;
   width: 400px; 
