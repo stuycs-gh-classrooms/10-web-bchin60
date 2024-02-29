@@ -3,9 +3,8 @@ nav {
 
 }
 .no ol {
-  display: inline-block;
-  list-style: unset;
-}
+  display: inline
+  list-style: unset;}
 body {
   background-color: darkslategray;
   text-align: center;
