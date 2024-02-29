@@ -1,32 +1,14 @@
 nav {
-  text-align: center;
-  margin-bottom: 60px;
+  border-bottom: 1px solid black;
+
 }
-a {
-color: darkslategray;
-}
-li {
-  display: inline;
-  margin-right: 30px;
-  font-weight: bold;
-  font-size: 30px;
-  text-decoration: underline;
+.no ol {
+  display: inline-block;
+  list-style: unset;
 }
 body {
-  padding: 5em;
-  top-margin: 5px;
-  margin: 10px;
-  background-color: #1a1a1a;
-  color: firebrick;
+  background-color: darkslategray;
   text-align: center;
-}
-p {
-  font-size: 20px;
-  padding: 20px;
-}
-h1 {
-  font-size: 40px;
-  margin-bottom: 50px;
-  padding: 20px;
-  text-decoration: underline;
+  border: 5px solid cadetblue;
+
 }
