@@ -1,6 +1,4 @@
-nav {
-  border-bottom: 1px solid black;
-
+nav 
 }
 li {
   display: inline;
@@ -17,5 +15,5 @@ body {
   background-color: #1a1a1a;
   text-align: center;
   color: firebrick;
-  padding: 20px;
+  margin: 20px;
 }
